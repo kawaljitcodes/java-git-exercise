@@ -8,3 +8,8 @@ A simple Java project for sorting arrays to demonstrate the Git feature-branch w
 
 - This feature provides a method to sort an array of integers.
 - To run the demo, compile and execute the `Main.java` file.
+
+### 2. String Sorting
+
+- This feature provides a method to sort an array of strings.
+- To run the demo, compile and execute the `Main.java` file.
