@@ -8,9 +8,10 @@ public class Main {
         System.out.println("Input: " + Arrays.toString(myInts));
         sorter.sortInts(myInts);
         System.out.println("Output: " + Arrays.toString(myInts));
-        System.out.println("Expected: [1, 2, 7, 8, 9]\n"); // Added newline
+        System.out.println("Expected: [1, 2, 7, 8, 9]\n"); // this will be expected output
+        System.out.println("new line added");
 
-        // --- Feature 2 Test ---
+        // --- Feature 2 Test for strings ---
         String[] myStrings = {"Dog", "Cat", "Bird", "Apple"};
         System.out.println("Feature 2 Test: String Sorting");
         System.out.println("Input: " + Arrays.toString(myStrings));
