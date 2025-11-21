@@ -18,4 +18,4 @@ public class Main {
         System.out.println("Output: " + Arrays.toString(myStrings));
         System.out.println("Expected: [Apple, Bird, Cat, Dog]");
     }
-}
+}// update
