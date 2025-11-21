@@ -9,8 +9,8 @@ public class Main {
         sorter.sortInts(myInts);
         System.out.println("Output: " + Arrays.toString(myInts));
         System.out.println("Expected: [1, 2, 7, 8, 9]\n"); // this will be expected output
-        System.out.println("this is new change");
-    
+        System.out.println("This is a new Line ");
+         
 
         // --- Feature 2 Test for strings ---
         String[] myStrings = {"Dog", "Cat", "Bird", "Apple"};
